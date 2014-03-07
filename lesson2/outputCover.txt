@@ -1,0 +1,2 @@
+averagecover=550.101784069
+percover=99.5042756228

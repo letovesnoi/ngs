@@ -1,0 +1,99 @@
+/opt/quast-2.2-build-nov-14/quast.py -oquast100000_1_2 -R MG1655-K12.first100K.fasta deBruijnGraphQUAST_s_6.first100000.fasta deBruijnGraphQUAST1_s_6.first100000.fasta
+
+Version 2.2, build 08.10.2013 18:53
+
+
+System information:
+  OS: Linux-3.10-2-amd64-x86_64-with-debian-jessie-sid
+  Python version: 2.7.5
+  CPUs number: 64
+
+Started: 2013-12-05 23:36:25
+
+Logging to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/quast.log
+
+NOTICE: Maximum number of threads is set to 64 (use --threads option to set it manually)
+
+Reference:
+  MG1655-K12.first100K.fasta ==> MG1655-K12.first100K
+
+Contigs:
+  deBruijnGraphQUAST_s_6.first100000.fasta ==> deBruijnGraphQUAST_s_6.first100000
+  deBruijnGraphQUAST1_s_6.first100000.fasta ==> deBruijnGraphQUAST1_s_6.first100000
+
+2013-12-05 23:36:26
+Running Basic statistics processor...
+  Reference genome:
+    MG1655-K12.first100K.fasta, Reference length = 100000, Reference GC % = 52.59
+  Contig files: 
+    1  deBruijnGraphQUAST_s_6.first100000
+    2  deBruijnGraphQUAST1_s_6.first100000
+  Calculating N50 and L50...
+    1  deBruijnGraphQUAST_s_6.first100000, N50 = 1420, L50 = 37, Total length = 146319, GC % = 52.63, # N's per 100 kbp =  0.00
+    2  deBruijnGraphQUAST1_s_6.first100000, N50 = 1420, L50 = 37, Total length = 146319, GC % = 52.63, # N's per 100 kbp =  0.00
+  Drawing cumulative plot...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/basic_stats/GC_content_plot.pdf
+  Drawing Nx plot...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/basic_stats/NGx_plot.pdf
+Done.
+
+2013-12-05 23:36:27
+Running Contig analyzer...
+  2  deBruijnGraphQUAST1_s_6.first100000
+  1  deBruijnGraphQUAST_s_6.first100000
+  2  Logging to files /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/contigs_reports/contigs_report_deBruijnGraphQUAST1_s_6.first100000.stdout and contigs_report_deBruijnGraphQUAST1_s_6.first100000.stderr...
+  1  Logging to files /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/contigs_reports/contigs_report_deBruijnGraphQUAST_s_6.first100000.stdout and contigs_report_deBruijnGraphQUAST_s_6.first100000.stderr...
+  2  Running Nucmer... 
+  1  Running Nucmer... 
+/home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/contigs_reports/alignments_deBruijnGraphQUAST1_s_6.first100000.tsv
+  905 Analysis is finished.
+/home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/contigs_reports/alignments_deBruijnGraphQUAST_s_6.first100000.tsv
+  905 Analysis is finished.
+  Creating total report...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Creating total report...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+Done.
+
+2013-12-05 23:36:27
+Running NA-NGA calculation...
+  Calculating NA50 and NGA50...
+    1  deBruijnGraphQUAST_s_6.first100000, Largest alignment = 4713, NA50 = 1420, NGA50 = 1647, LA50 = 37, LGA50 = 22
+    2  deBruijnGraphQUAST1_s_6.first100000, Largest alignment = 4713, NA50 = 1420, NGA50 = 1647, LA50 = 37, LGA50 = 22
+  Drawing cumulative plot...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/aligned_stats/NGAx_plot.pdf
+  Done.
+
+2013-12-05 23:36:28
+Running Genome analyzer...
+  NOTICE: Annotated genes file was not provided. Use -G option to specify it.
+  NOTICE: Annotated operons file was not provided. Use -O option to specify it.
+  1  deBruijnGraphQUAST_s_6.first100000
+  2  deBruijnGraphQUAST1_s_6.first100000
+  Drawing Genome fraction, % histogram...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/genome_stats/genome_fraction_histogram.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2013-12-05 23:36:28
+Summarizing...
+  Creating total report...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/report.txt, report.tsv, and report.tex
+  Transposed version of total report...
+    saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/report.html
+  All pdf files are merged to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/plots.pdf
+  Contig alignment plot: /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/alignment.svg
+  Log saved to /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/quast.log
+
+Finished: 2013-12-05 23:36:28
+Elapsed time: 0:00:03.197451

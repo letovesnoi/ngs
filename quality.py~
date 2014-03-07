@@ -1,0 +1,53 @@
+__author__ = 'lenk'
+
+def main():
+    with open('test.fastq', 'r') as f:
+        list = f.readlines()
+    f.close()
+    #определение формата ввода качества:
+    ident = {"J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
+                "[", "]", "`", "a", "b", "c", "d", "e", "f", "g", "h", r"\\", r"\^", r"\_"}
+    format = 0
+    #сдвиг в таблице ASCII в зависимости от формата:
+    l = 33
+    for j in range(3, 16, 4):
+        for i in range(len(list[j])):
+            if list[j][i] in ident:
+                format = 1
+                l = 59
+                break
+        if format == 1:
+            break
+
+    #Q[i] - среднее по всем ридам качество i-го нуклеотида
+    Q = []
+    #найдем максимальную длину нуклеотидной строчки:
+    maxlen = len(list[1])
+    for j in range(5, len(list), 4):
+        if len(list[j]) > maxlen:
+            maxlen = len(list[j])
+    #инициализация Q:
+    for j in range(maxlen):
+        Q.append(0)
+    for i in range(3, len(list), 4):
+        for j in range(len(list[i])):
+            Q[j] = Q[j] + ord(list[i][j]) + l
+    for j in range(len(Q)):
+        Q[j] /= len(list)
+    #позиция нуклеотида:
+    x = []
+    #вероятность ошибки p:
+    y = []
+    #заполняем массив х - позиция нуклеотида:
+    for i in range(maxlen):
+        x.append(i)
+    #y - среднее по всем ридам значение вероятности ошибки в зависимости от позиции нуклеотида:
+    for i in range(len(Q)):
+        y.append(10 ** (-Q[i] / 10))
+    with open('outtestQ.txt', 'w') as f1:
+        f1.write(str(x))
+        f1.write('\n')
+        f1.write(str(y))
+    f1.close()
+
+main()

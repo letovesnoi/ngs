@@ -1,0 +1,10 @@
+digraph G{
+ GT->TA [label=GTA];
+ AC->CG [label=ACG];
+ GT->CG [label=GTCCG];
+ CG->AC [label=CGGAC];
+ TA->AA [label=TAA];
+ TA->AC [label=TAC];
+ TT->TA [label=TTA];
+ CG->GT [label=CGT];
+}

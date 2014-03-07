@@ -1,0 +1,40 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     deBruijnGraphQUAST_s_6.first100000  deBruijnGraphQUAST1_s_6.first100000
+# contigs (>= 0 bp)          438                                 712                                
+# contigs (>= 1000 bp)       66                                  66                                 
+Total length (>= 0 bp)       176525                              184703                             
+Total length (>= 1000 bp)    107764                              107764                             
+# contigs                    119                                 119                                
+Total length                 146319                              146319                             
+Largest contig               4713                                4713                               
+Reference length             100000                              100000                             
+GC (%)                       52.63                               52.63                              
+Reference GC (%)             52.59                               52.59                              
+N50                          1420                                1420                               
+NG50                         1647                                1647                               
+N75                          979                                 979                                
+NG75                         1375                                1375                               
+L50                          37                                  37                                 
+LG50                         22                                  22                                 
+L75                          69                                  69                                 
+LG75                         39                                  39                                 
+# misassemblies              0                                   0                                  
+Misassembled contigs length  0                                   0                                  
+# local misassemblies        0                                   0                                  
+# unaligned contigs          0 + 0 part                          0 + 0 part                         
+Unaligned length             0                                   0                                  
+Genome fraction (%)          85.239                              85.239                             
+Duplication ratio            1.717                               1.717                              
+# N's per 100 kbp            0.00                                0.00                               
+# mismatches per 100 kbp     0.00                                0.00                               
+# indels per 100 kbp         0.00                                0.00                               
+Largest alignment            4713                                4713                               
+NA50                         1420                                1420                               
+NGA50                        1647                                1647                               
+NA75                         979                                 979                                
+NGA75                        1375                                1375                               
+LA50                         37                                  37                                 
+LGA50                        22                                  22                                 
+LA75                         69                                  69                                 
+LGA75                        39                                  39                                 

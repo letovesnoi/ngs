@@ -1,0 +1,67 @@
+import matplotlib
+matplotlib.use('Agg')
+
+__author__ = 'lenk'
+
+from pylab import *
+
+def main():
+    with open('test.fastq', 'r') as f:
+        format = 0
+        l = 33
+        for i in range(100):
+            readId = f.readline()
+            nucl = f.readline()
+            f.readline()
+            quality = f.readline()
+            ident = {"J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
+                              "[", "]", "`", "a", "b", "c", "d", "e", "f", "g", "h", r"\\", r"\^", r"\_"}
+            for i in range(len(readId)):
+                if readId[i] in ident:
+                    format = 1
+                    #l = 59?
+                    l = 64
+                    break
+            if format == 1:
+                break
+
+        f.seek(0)
+        gc = []
+        while f:
+            readId = f.readline()
+            if readId == '':
+                break
+            nucl = f.readline()
+            f.readline()
+            quality = f.readline()
+            countN = 0
+            countnucl = 0
+            countGC = 0
+            for i in range(len(nucl)):
+                if nucl[i] == "N":
+                    countN += 1
+                else:
+                    if ord(quality[i]) + l > l + 10:
+                        countnucl += 1
+                        if nucl[i] == 'G' or nucl[i] == 'C':
+                            countGC += 1
+            if countN < len(nucl) * 30.0 / 100:
+                gc.append(countGC * 100.0 / countnucl)
+    f.close()
+    y = []
+    x = []
+    for i in range(101):
+        x.append(i)
+        y.append(0)
+    for i in range(len(gc)):
+        y[int(gc[i])] += 1
+    with open('outputGC.txt', 'w') as f1:
+        f1.write(str(x))
+        f1.write('\n')
+        f1.write(str(y))
+    f1.close()
+    plot(x, y, marker='.', linestyle='-', color='b')
+    savefig('gcNew.png')
+    show()
+
+main()

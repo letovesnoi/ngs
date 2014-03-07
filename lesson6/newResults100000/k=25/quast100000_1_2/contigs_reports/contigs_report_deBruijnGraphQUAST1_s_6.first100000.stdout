@@ -1,0 +1,933 @@
+Aligning contigs to reference...
+	Running Nucmer...
+Parsing coords...
+Loading Assembly...
+Loading reference...
+	Loaded [gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides]
+Loading SNPs...
+Loading regions...
+	No regions given, using whole reference.
+	Total Regions: 1
+	Total Region Length: 100000
+Analyzing contigs...
+CONTIG: edge_from_CCGCCACGTCAGCAAACTCTTCGGC_to_TGCAAATGAACAGGCAGAGTGGCAG (3251bp)
+Top Length: 3251  Top ID: 100.0
+		One align captures most of this contig: 91143 94393 | 3251 1 | 3251 3251 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCACGTCAGCAAACTCTTCGGC_to_TGCAAATGAACAGGCAGAGTGGCAG
+
+CONTIG: edge_from_CCCGCCGATCAGGTTCCCCGCGCTC_to_GCCTGCCGGTGGACCGACACGGCGG (968bp)
+Top Length: 968  Top ID: 100.0
+		One align captures most of this contig: 64678 65645 | 968 1 | 968 968 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCGCCGATCAGGTTCCCCGCGCTC_to_GCCTGCCGGTGGACCGACACGGCGG
+
+CONTIG: edge_from_CCGCCAGTTTATCTACTGCCATTGG_to_CTTTTGGCTGGCAGGAAGCGGCAGG (1913bp)
+Top Length: 1913  Top ID: 100.0
+		One align captures most of this contig: 7214 9126 | 1913 1 | 1913 1913 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCAGTTTATCTACTGCCATTGG_to_CTTTTGGCTGGCAGGAAGCGGCAGG
+
+CONTIG: edge_from_CCCGCCGTGAATTTATGGATGCAGG_to_GTAGCGGCAGTATGCAAAGCGGCTT (1909bp)
+Top Length: 1909  Top ID: 100.0
+		One align captures most of this contig: 26073 27981 | 1 1909 | 1909 1909 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCGCCGTGAATTTATGGATGCAGG_to_GTAGCGGCAGTATGCAAAGCGGCTT
+
+CONTIG: edge_from_CGCGCCAGCGCCACTTCACGATCAA_to_CAGTAGATCCGGGTTGAATGGCAGG (567bp)
+Top Length: 567  Top ID: 100.0
+		One align captures most of this contig: 60953 61519 | 1 567 | 567 567 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CGCGCCAGCGCCACTTCACGATCAA_to_CAGTAGATCCGGGTTGAATGGCAGG
+
+CONTIG: edge_from_AAGCCACAAAAAATGAATGTTAATT_to_CCAGCCGTACTGCAAATCGCCTGCC (694bp)
+Top Length: 694  Top ID: 100.0
+		One align captures most of this contig: 10675 11368 | 694 1 | 694 694 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_AAGCCACAAAAAATGAATGTTAATT_to_CCAGCCGTACTGCAAATCGCCTGCC
+
+CONTIG: edge_from_CCGCCGCATGTTGTTCGTTATAAAC_to_GAAATATGTCAACCGATGAAAAGCG (1127bp)
+Top Length: 1127  Top ID: 100.0
+		One align captures most of this contig: 83881 85007 | 1127 1 | 1127 1127 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCGCATGTTGTTCGTTATAAAC_to_GAAATATGTCAACCGATGAAAAGCG
+
+CONTIG: edge_from_GACGTGGCAAAGCCGATGTCGGCAG_to_CCGCCGTCAGCCTTTACACCACCAC (626bp)
+Top Length: 626  Top ID: 100.0
+		One align captures most of this contig: 51878 52503 | 626 1 | 626 626 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GACGTGGCAAAGCCGATGTCGGCAG_to_CCGCCGTCAGCCTTTACACCACCAC
+
+CONTIG: edge_from_CAGGGATTCGACTTCCTGCGGCAGG_to_CCGCCGTAAGTCCGGTCCCGGAACA (1269bp)
+Top Length: 1269  Top ID: 100.0
+		One align captures most of this contig: 54223 55491 | 1 1269 | 1269 1269 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CAGGGATTCGACTTCCTGCGGCAGG_to_CCGCCGTAAGTCCGGTCCCGGAACA
+
+CONTIG: edge_from_CCGCCATTAATCACCAGGAGATATG_to_GGCGCTGAAAGTGCTGGATGCCGTG (886bp)
+Top Length: 886  Top ID: 100.0
+		One align captures most of this contig: 81869 82754 | 886 1 | 886 886 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCATTAATCACCAGGAGATATG_to_GGCGCTGAAAGTGCTGGATGCCGTG
+
+CONTIG: edge_from_CCGCCATGTTGCCGGTATGTTTACC_to_AGATTGCCGTCGCCTGTAGCGGCTG (1982bp)
+Top Length: 1982  Top ID: 100.0
+		One align captures most of this contig: 47621 49602 | 1982 1 | 1982 1982 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCATGTTGCCGGTATGTTTACC_to_AGATTGCCGTCGCCTGTAGCGGCTG
+
+CONTIG: edge_from_CGCGAAAACGGGTTTGCTGCGGCTG_to_CAGCCGTAACGGAACTCCACACCAA (785bp)
+Top Length: 785  Top ID: 100.0
+		One align captures most of this contig: 45725 46509 | 785 1 | 785 785 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CGCGAAAACGGGTTTGCTGCGGCTG_to_CAGCCGTAACGGAACTCCACACCAA
+
+CONTIG: edge_from_CCGCCAGTAACGGTGGCAGCAACAG_to_CCCGCCAGTTTTGATCGCTCTCAAC (1452bp)
+Top Length: 1452  Top ID: 100.0
+		One align captures most of this contig: 73597 75048 | 1 1452 | 1452 1452 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCAGTAACGGTGGCAGCAACAG_to_CCCGCCAGTTTTGATCGCTCTCAAC
+
+CONTIG: edge_from_TGTCCGGTCACAGCAGCAGCGGCAG_to_AAGCCGCATCATCGGCATCCAGGCT (1534bp)
+Top Length: 1534  Top ID: 100.0
+		One align captures most of this contig: 79492 81025 | 1 1534 | 1534 1534 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TGTCCGGTCACAGCAGCAGCGGCAG_to_AAGCCGCATCATCGGCATCCAGGCT
+
+CONTIG: edge_from_CCGCCGCCAGTGAGTTTCCGACCGC_to_GGGTTTTTTGTTTGACTGCGTGCTG (742bp)
+Top Length: 742  Top ID: 100.0
+		One align captures most of this contig: 82878 83619 | 1 742 | 742 742 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCGCCAGTGAGTTTCCGACCGC_to_GGGTTTTTTGTTTGACTGCGTGCTG
+
+CONTIG: edge_from_CCAATGGCAGTAGATAAACTGGCGG_to_AGCGTGCCGAAGAACATAAACAGCG (1065bp)
+Top Length: 1065  Top ID: 100.0
+		One align captures most of this contig: 9102 10166 | 1 1065 | 1065 1065 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCAATGGCAGTAGATAAACTGGCGG_to_AGCGTGCCGAAGAACATAAACAGCG
+
+CONTIG: edge_from_CTGCCACTCTGCCTGTTCATTTGCA_to_GCCGAAGAGTTTGCTGACGTGGCGG (3251bp)
+Top Length: 3251  Top ID: 100.0
+		One align captures most of this contig: 91143 94393 | 1 3251 | 3251 3251 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CTGCCACTCTGCCTGTTCATTTGCA_to_GCCGAAGAGTTTGCTGACGTGGCGG
+
+CONTIG: edge_from_TGCGGATGCTGGTGGATAGAGGCTG_to_GATTGATGAGTCGCTGATCGGCTGG (1189bp)
+Top Length: 1189  Top ID: 100.0
+		One align captures most of this contig: 30267 31455 | 1 1189 | 1189 1189 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TGCGGATGCTGGTGGATAGAGGCTG_to_GATTGATGAGTCGCTGATCGGCTGG
+
+CONTIG: edge_from_CCGGATAAGCAAAGCGCATCCGGCA_to_CCCGACACTGGCGGGACACCCCGCA (858bp)
+Top Length: 858  Top ID: 100.0
+		One align captures most of this contig: 65731 66588 | 858 1 | 858 858 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGGATAAGCAAAGCGCATCCGGCA_to_CCCGACACTGGCGGGACACCCCGCA
+
+CONTIG: edge_from_AAGCCGCTTTGCATACTGCCGCTAC_to_CCTGCATCCATAAATTCACGGCGGG (1909bp)
+Top Length: 1909  Top ID: 100.0
+		One align captures most of this contig: 26073 27981 | 1909 1 | 1909 1909 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_AAGCCGCTTTGCATACTGCCGCTAC_to_CCTGCATCCATAAATTCACGGCGGG
+
+CONTIG: edge_from_CGCTAAAAGTCAACTTAATGGCGGG_to_AAGCCGCTTTGCATACTGCCGCTAC (1572bp)
+Top Length: 1572  Top ID: 100.0
+		One align captures most of this contig: 27957 29528 | 1572 1 | 1572 1572 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CGCTAAAAGTCAACTTAATGGCGGG_to_AAGCCGCTTTGCATACTGCCGCTAC
+
+CONTIG: edge_from_CCTGCCACTGCTTCACCATCCCCAG_to_TTCTGCTGTTTTGTTTTAACGGCAG (1887bp)
+Top Length: 1887  Top ID: 100.0
+		One align captures most of this contig: 85199 87085 | 1887 1 | 1887 1887 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCTGCCACTGCTTCACCATCCCCAG_to_TTCTGCTGTTTTGTTTTAACGGCAG
+
+CONTIG: edge_from_CCAGCCGCCGGGAACGTTAACGGCA_to_CCAGCCGAGGGTATTCATGCGCAGG (566bp)
+Top Length: 566  Top ID: 100.0
+		One align captures most of this contig: 75145 75710 | 1 566 | 566 566 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCAGCCGCCGGGAACGTTAACGGCA_to_CCAGCCGAGGGTATTCATGCGCAGG
+
+CONTIG: edge_from_CCGCCGAACAGCAGCGGAGCGTCGG_to_GAGCCGGTACTGTCAACGCCAATCC (1042bp)
+Top Length: 1042  Top ID: 100.0
+		One align captures most of this contig: 68763 69804 | 1 1042 | 1042 1042 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCGAACAGCAGCGGAGCGTCGG_to_GAGCCGGTACTGTCAACGCCAATCC
+
+CONTIG: edge_from_CCCCGCCGCCGGTCGTCACCGCCCA_to_CCGCCAGCGCCAGCGTCATCATGGC (819bp)
+Top Length: 819  Top ID: 100.0
+		One align captures most of this contig: 46755 47573 | 819 1 | 819 819 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCCGCCGCCGGTCGTCACCGCCCA_to_CCGCCAGCGCCAGCGTCATCATGGC
+
+CONTIG: edge_from_CAGCCGCTACAGGCGACGGCAATCT_to_GGTAAACATACCGGCAACATGGCGG (1982bp)
+Top Length: 1982  Top ID: 100.0
+		One align captures most of this contig: 47621 49602 | 1 1982 | 1982 1982 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CAGCCGCTACAGGCGACGGCAATCT_to_GGTAAACATACCGGCAACATGGCGG
+
+CONTIG: edge_from_CCTGCCATATCGCGAAATTTCTGCG_to_CTGCTGAAGTGCTGAAAAAAATGAA (576bp)
+Top Length: 576  Top ID: 100.0
+		One align captures most of this contig: 11958 12533 | 1 576 | 576 576 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCTGCCATATCGCGAAATTTCTGCG_to_CTGCTGAAGTGCTGAAAAAAATGAA
+
+CONTIG: edge_from_TTACTGATTGCTGAGCAACAGGTAA_to_GGTGAAATGGCGAAAGCGGCGGGGG (1577bp)
+Top Length: 1577  Top ID: 100.0
+		One align captures most of this contig: 95904 97480 | 1 1577 | 1577 1577 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TTACTGATTGCTGAGCAACAGGTAA_to_GGTGAAATGGCGAAAGCGGCGGGGG
+
+CONTIG: edge_from_GAAACCTTACAGCATCAGTGGCTGG_to_CTGCCGCTACCGACGCAGTATCAGA (712bp)
+Top Length: 712  Top ID: 100.0
+		One align captures most of this contig: 61929 62640 | 712 1 | 712 712 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GAAACCTTACAGCATCAGTGGCTGG_to_CTGCCGCTACCGACGCAGTATCAGA
+
+CONTIG: edge_from_GATTGATGAGTCGCTGATCGGCTGG_to_CCGCCTCTACTTCGAGCCGGTAACT (1252bp)
+Top Length: 1252  Top ID: 100.0
+		One align captures most of this contig: 31431 32682 | 1 1252 | 1252 1252 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GATTGATGAGTCGCTGATCGGCTGG_to_CCGCCTCTACTTCGAGCCGGTAACT
+
+CONTIG: edge_from_GGGCATCCTCCGGCGATAATGGCGG_to_TCGCCATCAATAAAGATAAAAATGC (3558bp)
+Top Length: 3558  Top ID: 100.0
+		One align captures most of this contig: 40487 44044 | 1 3558 | 3558 3558 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GGGCATCCTCCGGCGATAATGGCGG_to_TCGCCATCAATAAAGATAAAAATGC
+
+CONTIG: edge_from_CCTGCCATTCAACCCGGATCTACTG_to_TTGATCGTGAAGTGGCGCTGGCGCG (567bp)
+Top Length: 567  Top ID: 100.0
+		One align captures most of this contig: 60953 61519 | 567 1 | 567 567 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCTGCCATTCAACCCGGATCTACTG_to_TTGATCGTGAAGTGGCGCTGGCGCG
+
+CONTIG: edge_from_CCCTGCCGTTTTATCTCTACCAGCA_to_CGGGCGAGCTTTCCGGCGGTCAGCG (530bp)
+Top Length: 530  Top ID: 100.0
+		One align captures most of this contig: 72524 73053 | 530 1 | 530 530 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCTGCCGTTTTATCTCTACCAGCA_to_CGGGCGAGCTTTCCGGCGGTCAGCG
+
+CONTIG: edge_from_TAGCCATATCCAGACGATGCACCGA_to_ACGGTTAACCGCGTTAAGCTGGCGG (532bp)
+Top Length: 532  Top ID: 100.0
+		One align captures most of this contig: 60148 60679 | 1 532 | 532 532 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TAGCCATATCCAGACGATGCACCGA_to_ACGGTTAACCGCGTTAAGCTGGCGG
+
+CONTIG: edge_from_CCCGCCAGCAGATTATACCTGCTGG_to_TAGGATTGCCAGACAAACTGGCGGG (821bp)
+Top Length: 821  Top ID: 100.0
+		One align captures most of this contig: 77561 78381 | 1 821 | 821 821 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCGCCAGCAGATTATACCTGCTGG_to_TAGGATTGCCAGACAAACTGGCGGG
+
+CONTIG: edge_from_CCCGACTGCTCAGCGAGAATCGTCG_to_CAACCCTTAAGTTAGCGCTTATGGG (505bp)
+Top Length: 505  Top ID: 100.0
+		One align captures most of this contig: 16226 16730 | 1 505 | 505 505 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCGACTGCTCAGCGAGAATCGTCG_to_CAACCCTTAAGTTAGCGCTTATGGG
+
+CONTIG: edge_from_CGCTGTTTATGTTCTTCGGCACGCT_to_CCGCCAGTTTATCTACTGCCATTGG (1065bp)
+Top Length: 1065  Top ID: 100.0
+		One align captures most of this contig: 9102 10166 | 1065 1 | 1065 1065 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CGCTGTTTATGTTCTTCGGCACGCT_to_CCGCCAGTTTATCTACTGCCATTGG
+
+CONTIG: edge_from_TATTGCTTCAGCACCGCACGACCCA_to_GGGCATCCTCCGGCGATAATGGCGG (1261bp)
+Top Length: 1261  Top ID: 100.0
+		One align captures most of this contig: 39251 40511 | 1 1261 | 1261 1261 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TATTGCTTCAGCACCGCACGACCCA_to_GGGCATCCTCCGGCGATAATGGCGG
+
+CONTIG: edge_from_CCGCCTCTACTTCGAGCCGGTAACT_to_CCCGCCGTACTACTCGGTGAAAGAA (835bp)
+Top Length: 835  Top ID: 100.0
+		One align captures most of this contig: 32658 33492 | 1 835 | 835 835 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCTCTACTTCGAGCCGGTAACT_to_CCCGCCGTACTACTCGGTGAAAGAA
+
+CONTIG: edge_from_CCGCCGTCAGCCTTTACACCACCAC_to_GATTGATTCCCAGGTATGGCGGCCC (1955bp)
+Top Length: 1955  Top ID: 100.0
+		One align captures most of this contig: 49948 51902 | 1955 1 | 1955 1955 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCGTCAGCCTTTACACCACCAC_to_GATTGATTCCCAGGTATGGCGGCCC
+
+CONTIG: edge_from_CCCCCGCCGCTTTCGCCATTTCACC_to_TTACCTGTTGCTCAGCAATCAGTAA (1577bp)
+Top Length: 1577  Top ID: 100.0
+		One align captures most of this contig: 95904 97480 | 1577 1 | 1577 1577 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCCCGCCGCTTTCGCCATTTCACC_to_TTACCTGTTGCTCAGCAATCAGTAA
+
+CONTIG: edge_from_CTGCCGTTAAAACAAAACAGCAGAA_to_CTGGGGATGGTGAAGCAGTGGCAGG (1887bp)
+Top Length: 1887  Top ID: 100.0
+		One align captures most of this contig: 85199 87085 | 1 1887 | 1887 1887 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CTGCCGTTAAAACAAAACAGCAGAA_to_CTGGGGATGGTGAAGCAGTGGCAGG
+
+CONTIG: edge_from_CCGCCGCTATCGACTGACGATACGG_to_AAGCCACTGCGAAAGTGCTGGAAGC (686bp)
+Top Length: 686  Top ID: 100.0
+		One align captures most of this contig: 36638 37323 | 686 1 | 686 686 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCGCTATCGACTGACGATACGG_to_AAGCCACTGCGAAAGTGCTGGAAGC
+
+CONTIG: edge_from_CCAGCCACAGCCAGCGTAGCCCTGT_to_AGGTGATGCTGCCAACTTACTGATT (4713bp)
+Top Length: 4713  Top ID: 100.0
+		One align captures most of this contig: 20540 25252 | 4713 1 | 4713 4713 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCAGCCACAGCCAGCGTAGCCCTGT_to_AGGTGATGCTGCCAACTTACTGATT
+
+CONTIG: edge_from_CCGCCATTATCGCCGGAGGATGCCC_to_TGGGTCGTGCGGTGCTGAAGCAATA (1261bp)
+Top Length: 1261  Top ID: 100.0
+		One align captures most of this contig: 39251 40511 | 1261 1 | 1261 1261 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCATTATCGCCGGAGGATGCCC_to_TGGGTCGTGCGGTGCTGAAGCAATA
+
+CONTIG: edge_from_CCGACGCTCCGCTGCTGTTCGGCGG_to_GTATGTAACGCCTGATGCGACGCTG (1991bp)
+Top Length: 1991  Top ID: 100.0
+		One align captures most of this contig: 66797 68787 | 1991 1 | 1991 1991 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGACGCTCCGCTGCTGTTCGGCGG_to_GTATGTAACGCCTGATGCGACGCTG
+
+CONTIG: edge_from_TCAGGTCTGATACCGGAAACCGGGG_to_CGCTGTTTATGTTCTTCGGCACGCT (511bp)
+Top Length: 511  Top ID: 100.0
+		One align captures most of this contig: 10142 10652 | 511 1 | 511 511 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TCAGGTCTGATACCGGAAACCGGGG_to_CGCTGTTTATGTTCTTCGGCACGCT
+
+CONTIG: edge_from_CCGCCAGCTTAACGCGGTTAACCGT_to_TCGGTGCATCGTCTGGATATGGCTA (532bp)
+Top Length: 532  Top ID: 100.0
+		One align captures most of this contig: 60148 60679 | 532 1 | 532 532 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCAGCTTAACGCGGTTAACCGT_to_TCGGTGCATCGTCTGGATATGGCTA
+
+CONTIG: edge_from_CAGCGTCGCATCAGGCGTTACATAC_to_CCGCCGAACAGCAGCGGAGCGTCGG (1991bp)
+Top Length: 1991  Top ID: 100.0
+		One align captures most of this contig: 66797 68787 | 1 1991 | 1991 1991 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CAGCGTCGCATCAGGCGTTACATAC_to_CCGCCGAACAGCAGCGGAGCGTCGG
+
+CONTIG: edge_from_AAGCCATATTCGCCTGGATTCAACT_to_CCCGCCGTATCCAGCCGGCAAATAT (1162bp)
+Top Length: 1162  Top ID: 100.0
+		One align captures most of this contig: 3687 4848 | 1162 1 | 1162 1162 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_AAGCCATATTCGCCTGGATTCAACT_to_CCCGCCGTATCCAGCCGGCAAATAT
+
+CONTIG: edge_from_CACGGCATCCAGCACTTTCAGCGCC_to_CATATCTCCTGGTGATTAATGGCGG (886bp)
+Top Length: 886  Top ID: 100.0
+		One align captures most of this contig: 81869 82754 | 1 886 | 886 886 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CACGGCATCCAGCACTTTCAGCGCC_to_CATATCTCCTGGTGATTAATGGCGG
+
+CONTIG: edge_from_ACCGTTCATCATGCAGTGGCGGCGG_to_TGTCCGGTCACAGCAGCAGCGGCAG (588bp)
+Top Length: 588  Top ID: 100.0
+		One align captures most of this contig: 78929 79516 | 1 588 | 588 588 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_ACCGTTCATCATGCAGTGGCGGCGG_to_TGTCCGGTCACAGCAGCAGCGGCAG
+
+CONTIG: edge_from_AGCCTGGATGCCGATGATGCGGCTT_to_CTGCCGCTGCTGCTGTGACCGGACA (1534bp)
+Top Length: 1534  Top ID: 100.0
+		One align captures most of this contig: 79492 81025 | 1534 1 | 1534 1534 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_AGCCTGGATGCCGATGATGCGGCTT_to_CTGCCGCTGCTGCTGTGACCGGACA
+
+CONTIG: edge_from_TTCATTTTTTTCAGCACTTCAGCAG_to_CGCAGAAATTTCGCGATATGGCAGG (576bp)
+Top Length: 576  Top ID: 100.0
+		One align captures most of this contig: 11958 12533 | 576 1 | 576 576 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TTCATTTTTTTCAGCACTTCAGCAG_to_CGCAGAAATTTCGCGATATGGCAGG
+
+CONTIG: edge_from_CCTGCCGCAGTTAATCGTCAAGGAT_to_AAACTGCGTTAATTACGCGTCTTAA (1032bp)
+Top Length: 1032  Top ID: 100.0
+		One align captures most of this contig: 94871 95902 | 1 1032 | 1032 1032 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCTGCCGCAGTTAATCGTCAAGGAT_to_AAACTGCGTTAATTACGCGTCTTAA
+
+CONTIG: edge_from_CCTGCCATATTACTGGAACATCGCG_to_TGTTCCGGGACCGGACTTACGGCGG (912bp)
+Top Length: 912  Top ID: 100.0
+		One align captures most of this contig: 55467 56378 | 912 1 | 912 912 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCTGCCATATTACTGGAACATCGCG_to_TGTTCCGGGACCGGACTTACGGCGG
+
+CONTIG: edge_from_GCCCAGTTATTCGAAAAATGGCTGG_to_CCTCGGTATGCCTTGTGACTGGCTT (852bp)
+Top Length: 852  Top ID: 100.0
+		One align captures most of this contig: 88703 89554 | 1 852 | 852 852 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GCCCAGTTATTCGAAAAATGGCTGG_to_CCTCGGTATGCCTTGTGACTGGCTT
+
+CONTIG: edge_from_GCCGAAGAGTTTGCTGACGTGGCGG_to_CCTGCCGCAGTTAATCGTCAAGGAT (527bp)
+Top Length: 527  Top ID: 100.0
+		One align captures most of this contig: 94369 94895 | 1 527 | 527 527 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GCCGAAGAGTTTGCTGACGTGGCGG_to_CCTGCCGCAGTTAATCGTCAAGGAT
+
+CONTIG: edge_from_CCCGCCACCATTGGCACCAGCGGAC_to_AAACAGGTCGCTGAAATGCGGCTGG (979bp)
+Top Length: 979  Top ID: 100.0
+		One align captures most of this contig: 70764 71742 | 979 1 | 979 979 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCGCCACCATTGGCACCAGCGGAC_to_AAACAGGTCGCTGAAATGCGGCTGG
+
+CONTIG: edge_from_TTAAGACGCGTAATTAACGCAGTTT_to_ATCCTTGACGATTAACTGCGGCAGG (1032bp)
+Top Length: 1032  Top ID: 100.0
+		One align captures most of this contig: 94871 95902 | 1032 1 | 1032 1032 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TTAAGACGCGTAATTAACGCAGTTT_to_ATCCTTGACGATTAACTGCGGCAGG
+
+CONTIG: edge_from_TGTTCCGGGACCGGACTTACGGCGG_to_CCTGCCGCAGGAAGTCGAATCCCTG (1269bp)
+Top Length: 1269  Top ID: 100.0
+		One align captures most of this contig: 54223 55491 | 1269 1 | 1269 1269 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TGTTCCGGGACCGGACTTACGGCGG_to_CCTGCCGCAGGAAGTCGAATCCCTG
+
+CONTIG: edge_from_CCCCGCCGCCGCGCCTACGTTAACC_to_GGTCACCATGATAAAGCCAATCGCC (928bp)
+Top Length: 928  Top ID: 100.0
+		One align captures most of this contig: 98570 99497 | 928 1 | 928 928 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCCGCCGCCGCGCCTACGTTAACC_to_GGTCACCATGATAAAGCCAATCGCC
+
+CONTIG: edge_from_CCGCCGTAAGTCCGGTCCCGGAACA_to_CGCGATGTTCCAGTAATATGGCAGG (912bp)
+Top Length: 912  Top ID: 100.0
+		One align captures most of this contig: 55467 56378 | 1 912 | 912 912 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCGTAAGTCCGGTCCCGGAACA_to_CGCGATGTTCCAGTAATATGGCAGG
+
+CONTIG: edge_from_CTGGGGATGGTGAAGCAGTGGCAGG_to_AAAACCGTTGAAAAAGTCATGGCTG (1088bp)
+Top Length: 1088  Top ID: 100.0
+		One align captures most of this contig: 87061 88148 | 1 1088 | 1088 1088 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CTGGGGATGGTGAAGCAGTGGCAGG_to_AAAACCGTTGAAAAAGTCATGGCTG
+
+CONTIG: edge_from_GCATTTTTATCTTTATTGATGGCGA_to_CCGCCATTATCGCCGGAGGATGCCC (3558bp)
+Top Length: 3558  Top ID: 100.0
+		One align captures most of this contig: 40487 44044 | 3558 1 | 3558 3558 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GCATTTTTATCTTTATTGATGGCGA_to_CCGCCATTATCGCCGGAGGATGCCC
+
+CONTIG: edge_from_CAGCCGTAACGGAACTCCACACCAA_to_CCGCCACATCCGTCGGTTTGACGCG (1048bp)
+Top Length: 1048  Top ID: 100.0
+		One align captures most of this contig: 44702 45749 | 1048 1 | 1048 1048 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CAGCCGTAACGGAACTCCACACCAA_to_CCGCCACATCCGTCGGTTTGACGCG
+
+CONTIG: edge_from_TTTGCTGATAAGTCGTTCCCTCAGG_to_AAGAGAGCGATATAATAGCGGCGGG (1420bp)
+Top Length: 1420  Top ID: 100.0
+		One align captures most of this contig: 17051 18470 | 1420 1 | 1420 1420 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TTTGCTGATAAGTCGTTCCCTCAGG_to_AAGAGAGCGATATAATAGCGGCGGG
+
+CONTIG: edge_from_CCCATAAGCGCTAACTTAAGGGTTG_to_CGACGATTCTCGCTGAGCAGTCGGG (505bp)
+Top Length: 505  Top ID: 100.0
+		One align captures most of this contig: 16226 16730 | 505 1 | 505 505 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCATAAGCGCTAACTTAAGGGTTG_to_CGACGATTCTCGCTGAGCAGTCGGG
+
+CONTIG: edge_from_CCAGCCAATGCCTGCCTTCCCGTAT_to_CCGCCGCTATCGACTGACGATACGG (1344bp)
+Top Length: 1344  Top ID: 100.0
+		One align captures most of this contig: 37299 38642 | 1344 1 | 1344 1344 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCAGCCAATGCCTGCCTTCCCGTAT_to_CCGCCGCTATCGACTGACGATACGG
+
+CONTIG: edge_from_CCGCCGTGTCGGTCCACCGGCAGGC_to_GAGCGCGGGGAACCTGATCGGCGGG (968bp)
+Top Length: 968  Top ID: 100.0
+		One align captures most of this contig: 64678 65645 | 1 968 | 968 968 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCGTGTCGGTCCACCGGCAGGC_to_GAGCGCGGGGAACCTGATCGGCGGG
+
+CONTIG: edge_from_CCCGCCAGTTTGTCTGGCAATCCTA_to_CCAGCAGGTATAATCTGCTGGCGGG (821bp)
+Top Length: 821  Top ID: 100.0
+		One align captures most of this contig: 77561 78381 | 821 1 | 821 821 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCGCCAGTTTGTCTGGCAATCCTA_to_CCAGCAGGTATAATCTGCTGGCGGG
+
+CONTIG: edge_from_CGCCTTATCCGGCCTACGATTTCGC_to_CCAGCCACAGCCAGCGTAGCCCTGT (551bp)
+Top Length: 551  Top ID: 100.0
+		One align captures most of this contig: 25228 25778 | 551 1 | 551 551 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CGCCTTATCCGGCCTACGATTTCGC_to_CCAGCCACAGCCAGCGTAGCCCTGT
+
+CONTIG: edge_from_GGCGAACCACGCCATTTTACGGCTA_to_CCTGCCATATTACTGGAACATCGCG (1145bp)
+Top Length: 1145  Top ID: 100.0
+		One align captures most of this contig: 56354 57498 | 1145 1 | 1145 1145 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GGCGAACCACGCCATTTTACGGCTA_to_CCTGCCATATTACTGGAACATCGCG
+
+CONTIG: edge_from_GGGGTAGCACCGTCCGGGGTAGCAC_to_GGCGAACCACGCCATTTTACGGCTA (1604bp)
+Top Length: 1604  Top ID: 100.0
+		One align captures most of this contig: 57474 59077 | 1604 1 | 1604 1604 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GGGGTAGCACCGTCCGGGGTAGCAC_to_GGCGAACCACGCCATTTTACGGCTA
+
+CONTIG: edge_from_CCCGGACGGTGCTAACCTGGACGGT_to_GGGCCACATACTGCTTTTTCGGCTC (987bp)
+Top Length: 987  Top ID: 100.0
+		One align captures most of this contig: 59090 60076 | 1 987 | 987 987 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCGGACGGTGCTAACCTGGACGGT_to_GGGCCACATACTGCTTTTTCGGCTC
+
+CONTIG: edge_from_CCCGCCGTACTACTCGGTGAAAGAA_to_CCTGCCGTTCCGCTCACGGAACTTA (1178bp)
+Top Length: 1178  Top ID: 100.0
+		One align captures most of this contig: 33468 34645 | 1 1178 | 1178 1178 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCGCCGTACTACTCGGTGAAAGAA_to_CCTGCCGTTCCGCTCACGGAACTTA
+
+CONTIG: edge_from_CTGCCGCTGCTGCTGTGACCGGACA_to_CCGCCGCCACTGCATGATGAACGGT (588bp)
+Top Length: 588  Top ID: 100.0
+		One align captures most of this contig: 78929 79516 | 588 1 | 588 588 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CTGCCGCTGCTGCTGTGACCGGACA_to_CCGCCGCCACTGCATGATGAACGGT
+
+CONTIG: edge_from_CCCGCCGCTATTATATCGCTCTCTT_to_CCTGAGGGAACGACTTATCAGCAAA (1420bp)
+Top Length: 1420  Top ID: 100.0
+		One align captures most of this contig: 17051 18470 | 1 1420 | 1420 1420 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCGCCGCTATTATATCGCTCTCTT_to_CCTGAGGGAACGACTTATCAGCAAA
+
+CONTIG: edge_from_GAAAGCAATGCCAGGCAGGGGCAGG_to_GTGTTTGTGATTGGCGTCGGTGGCG (1354bp)
+Top Length: 1354  Top ID: 100.0
+		One align captures most of this contig: 409 1762 | 1 1354 | 1354 1354 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GAAAGCAATGCCAGGCAGGGGCAGG_to_GTGTTTGTGATTGGCGTCGGTGGCG
+
+CONTIG: edge_from_AGTTACCGGCTCGAAGTAGAGGCGG_to_CCAGCCGATCAGCGACTCATCAATC (1252bp)
+Top Length: 1252  Top ID: 100.0
+		One align captures most of this contig: 31431 32682 | 1252 1 | 1252 1252 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_AGTTACCGGCTCGAAGTAGAGGCGG_to_CCAGCCGATCAGCGACTCATCAATC
+
+CONTIG: edge_from_ATCCTTGACGATTAACTGCGGCAGG_to_CCGCCACGTCAGCAAACTCTTCGGC (527bp)
+Top Length: 527  Top ID: 100.0
+		One align captures most of this contig: 94369 94895 | 527 1 | 527 527 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_ATCCTTGACGATTAACTGCGGCAGG_to_CCGCCACGTCAGCAAACTCTTCGGC
+
+CONTIG: edge_from_TGCTCGGGGAAAATAATTAGAAAGA_to_TAAGTTCCGTGAGCGGAACGGCAGG (1686bp)
+Top Length: 1686  Top ID: 100.0
+		One align captures most of this contig: 34621 36306 | 1686 1 | 1686 1686 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TGCTCGGGGAAAATAATTAGAAAGA_to_TAAGTTCCGTGAGCGGAACGGCAGG
+
+CONTIG: edge_from_GGTCACCATGATAAAGCCAATCGCC_to_CCCCCGCCGCTTTCGCCATTTCACC (1139bp)
+Top Length: 1139  Top ID: 100.0
+		One align captures most of this contig: 97456 98594 | 1139 1 | 1139 1139 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GGTCACCATGATAAAGCCAATCGCC_to_CCCCCGCCGCTTTCGCCATTTCACC
+
+CONTIG: edge_from_CCTGCCGTTCCGCTCACGGAACTTA_to_TCTTTCTAATTATTTTCCCCGAGCA (1686bp)
+Top Length: 1686  Top ID: 100.0
+		One align captures most of this contig: 34621 36306 | 1 1686 | 1686 1686 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCTGCCGTTCCGCTCACGGAACTTA_to_TCTTTCTAATTATTTTCCCCGAGCA
+
+CONTIG: edge_from_CCTGCCGCAGGAAGTCGAATCCCTG_to_CCTGCCGATACCCTGTTTCAGCCGA (1588bp)
+Top Length: 1588  Top ID: 100.0
+		One align captures most of this contig: 52660 54247 | 1588 1 | 1588 1588 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCTGCCGCAGGAAGTCGAATCCCTG_to_CCTGCCGATACCCTGTTTCAGCCGA
+
+CONTIG: edge_from_GGGCCGCCATACCTGGGAATCAATC_to_GTGGTGGTGTAAAGGCTGACGGCGG (1955bp)
+Top Length: 1955  Top ID: 100.0
+		One align captures most of this contig: 49948 51902 | 1 1955 | 1955 1955 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GGGCCGCCATACCTGGGAATCAATC_to_GTGGTGGTGTAAAGGCTGACGGCGG
+
+CONTIG: edge_from_GGCGATTGGCTTTATCATGGTGACC_to_GGTTAACGTAGGCGCGGCGGCGGGG (928bp)
+Top Length: 928  Top ID: 100.0
+		One align captures most of this contig: 98570 99497 | 1 928 | 928 928 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GGCGATTGGCTTTATCATGGTGACC_to_GGTTAACGTAGGCGCGGCGGCGGGG
+
+CONTIG: edge_from_AGCGTGCCGAAGAACATAAACAGCG_to_CCCCGGTTTCCGGTATCAGACCTGA (511bp)
+Top Length: 511  Top ID: 100.0
+		One align captures most of this contig: 10142 10652 | 1 511 | 511 511 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_AGCGTGCCGAAGAACATAAACAGCG_to_CCCCGGTTTCCGGTATCAGACCTGA
+
+CONTIG: edge_from_TAGCCGTAAAATGGCGTGGTTCGCC_to_GTGCTACCCCGGACGGTGCTACCCC (1604bp)
+Top Length: 1604  Top ID: 100.0
+		One align captures most of this contig: 57474 59077 | 1 1604 | 1604 1604 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TAGCCGTAAAATGGCGTGGTTCGCC_to_GTGCTACCCCGGACGGTGCTACCCC
+
+CONTIG: edge_from_CCGCCTGCCGCGCCTGCCGGAAGCC_to_CGCCACCGACGCCAATCACAAACAC (1808bp)
+Top Length: 1808  Top ID: 100.0
+		One align captures most of this contig: 1738 3545 | 1808 1 | 1808 1808 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCTGCCGCGCCTGCCGGAAGCC_to_CGCCACCGACGCCAATCACAAACAC
+
+CONTIG: edge_from_CGCCGCATCCGGCATTGACTGCAAA_to_CCTGCCGCTTCCTGCCAGCCAAAAG (1582bp)
+Top Length: 1582  Top ID: 100.0
+		One align captures most of this contig: 5657 7238 | 1 1582 | 1582 1582 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CGCCGCATCCGGCATTGACTGCAAA_to_CCTGCCGCTTCCTGCCAGCCAAAAG
+
+CONTIG: edge_from_CGCTGACCGCCGGAAAGCTCGCCCG_to_TGCTGGTAGAGATAAAACGGCAGGG (530bp)
+Top Length: 530  Top ID: 100.0
+		One align captures most of this contig: 72524 73053 | 1 530 | 530 530 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CGCTGACCGCCGGAAAGCTCGCCCG_to_TGCTGGTAGAGATAAAACGGCAGGG
+
+CONTIG: edge_from_TGGGCGGCGGCGGTTTTGGCGGCGG_to_TGCGAGCACCTGTAAAGTGGCGGGG (979bp)
+Top Length: 979  Top ID: 100.0
+		One align captures most of this contig: 14403 15381 | 1 979 | 979 979 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TGGGCGGCGGCGGTTTTGGCGGCGG_to_TGCGAGCACCTGTAAAGTGGCGGGG
+
+CONTIG: edge_from_CAGCCATGACTTTTTCAACGGTTTT_to_CCTGCCACTGCTTCACCATCCCCAG (1088bp)
+Top Length: 1088  Top ID: 100.0
+		One align captures most of this contig: 87061 88148 | 1088 1 | 1088 1088 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CAGCCATGACTTTTTCAACGGTTTT_to_CCTGCCACTGCTTCACCATCCCCAG
+
+CONTIG: edge_from_CCTGCCGCTTCCTGCCAGCCAAAAG_to_CCAATGGCAGTAGATAAACTGGCGG (1913bp)
+Top Length: 1913  Top ID: 100.0
+		One align captures most of this contig: 7214 9126 | 1 1913 | 1913 1913 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCTGCCGCTTCCTGCCAGCCAAAAG_to_CCAATGGCAGTAGATAAACTGGCGG
+
+CONTIG: edge_from_CCTGCCATACATCACTGCAGACGCG_to_TGGGCGGCGGCGGTTTTGGCGGCGG (1420bp)
+Top Length: 1420  Top ID: 100.0
+		One align captures most of this contig: 13008 14427 | 1 1420 | 1420 1420 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCTGCCATACATCACTGCAGACGCG_to_TGGGCGGCGGCGGTTTTGGCGGCGG
+
+CONTIG: edge_from_TTAACATTCATTTTTTGTGGCTTCT_to_CCTGCCATATCGCGAAATTTCTGCG (637bp)
+Top Length: 637  Top ID: 100.0
+		One align captures most of this contig: 11346 11982 | 1 637 | 637 637 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TTAACATTCATTTTTTGTGGCTTCT_to_CCTGCCATATCGCGAAATTTCTGCG
+
+CONTIG: edge_from_GTTGAGAGCGATCAAAACTGGCGGG_to_CTGTTGCTGCCACCGTTACTGGCGG (1452bp)
+Top Length: 1452  Top ID: 100.0
+		One align captures most of this contig: 73597 75048 | 1452 1 | 1452 1452 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GTTGAGAGCGATCAAAACTGGCGGG_to_CTGTTGCTGCCACCGTTACTGGCGG
+
+CONTIG: edge_from_CCGTATCGTCAGTCGATAGCGGCGG_to_ATACGGGAAGGCAGGCATTGGCTGG (1344bp)
+Top Length: 1344  Top ID: 100.0
+		One align captures most of this contig: 37299 38642 | 1 1344 | 1344 1344 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGTATCGTCAGTCGATAGCGGCGG_to_ATACGGGAAGGCAGGCATTGGCTGG
+
+CONTIG: edge_from_GAGCCGAAAAAGCAGTATGTGGCCC_to_ACCGTCCAGGTTAGCACCGTCCGGG (987bp)
+Top Length: 987  Top ID: 100.0
+		One align captures most of this contig: 59090 60076 | 987 1 | 987 987 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GAGCCGAAAAAGCAGTATGTGGCCC_to_ACCGTCCAGGTTAGCACCGTCCGGG
+
+CONTIG: edge_from_CCTGAGGGAACGACTTATCAGCAAA_to_GGTAATGACTCCAACTTATTGATAG (1375bp)
+Top Length: 1375  Top ID: 100.0
+		One align captures most of this contig: 18446 19820 | 1 1375 | 1375 1375 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCTGAGGGAACGACTTATCAGCAAA_to_GGTAATGACTCCAACTTATTGATAG
+
+CONTIG: edge_from_TCGGCTGAAACAGGGTATCGGCAGG_to_CAGGGATTCGACTTCCTGCGGCAGG (1588bp)
+Top Length: 1588  Top ID: 100.0
+		One align captures most of this contig: 52660 54247 | 1 1588 | 1588 1588 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TCGGCTGAAACAGGGTATCGGCAGG_to_CAGGGATTCGACTTCCTGCGGCAGG
+
+CONTIG: edge_from_TTGGTGTGGAGTTCCGTTACGGCTG_to_CAGCCGCAGCAAACCCGTTTTCGCG (785bp)
+Top Length: 785  Top ID: 100.0
+		One align captures most of this contig: 45725 46509 | 1 785 | 785 785 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TTGGTGTGGAGTTCCGTTACGGCTG_to_CAGCCGCAGCAAACCCGTTTTCGCG
+
+CONTIG: edge_from_CGCCACCGACGCCAATCACAAACAC_to_CCTGCCCCTGCCTGGCATTGCTTTC (1354bp)
+Top Length: 1354  Top ID: 100.0
+		One align captures most of this contig: 409 1762 | 1354 1 | 1354 1354 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CGCCACCGACGCCAATCACAAACAC_to_CCTGCCCCTGCCTGGCATTGCTTTC
+
+CONTIG: edge_from_CCCCGCCACTTTACAGGTGCTCGCA_to_CCGCCGCCAAAACCGCCGCCGCCCA (979bp)
+Top Length: 979  Top ID: 100.0
+		One align captures most of this contig: 14403 15381 | 979 1 | 979 979 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCCGCCACTTTACAGGTGCTCGCA_to_CCGCCGCCAAAACCGCCGCCGCCCA
+
+CONTIG: edge_from_GTGTTTGTGATTGGCGTCGGTGGCG_to_GGCTTCCGGCAGGCGCGGCAGGCGG (1808bp)
+Top Length: 1808  Top ID: 100.0
+		One align captures most of this contig: 1738 3545 | 1 1808 | 1808 1808 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GTGTTTGTGATTGGCGTCGGTGGCG_to_GGCTTCCGGCAGGCGCGGCAGGCGG
+
+CONTIG: edge_from_CGCTTTTCATCGGTTGACATATTTC_to_GTTTATAACGAACAACATGCGGCGG (1127bp)
+Top Length: 1127  Top ID: 100.0
+		One align captures most of this contig: 83881 85007 | 1 1127 | 1127 1127 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CGCTTTTCATCGGTTGACATATTTC_to_GTTTATAACGAACAACATGCGGCGG
+
+CONTIG: edge_from_GAGCCGGTACTGTCAACGCCAATCC_to_CGTTTAACGCCCATCTGGTGGCGGG (672bp)
+Top Length: 672  Top ID: 100.0
+		One align captures most of this contig: 69780 70451 | 1 672 | 672 672 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GAGCCGGTACTGTCAACGCCAATCC_to_CGTTTAACGCCCATCTGGTGGCGGG
+
+CONTIG: edge_from_TGCATCTGCCAGCCGTCATGGCTGG_to_CCGCCGTGTCGGTCCACCGGCAGGC (1647bp)
+Top Length: 1647  Top ID: 100.0
+		One align captures most of this contig: 63056 64702 | 1 1647 | 1647 1647 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_TGCATCTGCCAGCCGTCATGGCTGG_to_CCGCCGTGTCGGTCCACCGGCAGGC
+
+CONTIG: edge_from_CCCGCCACCAGATGGGCGTTAAACG_to_GGATTGGCGTTGACAGTACCGGCTC (672bp)
+Top Length: 672  Top ID: 100.0
+		One align captures most of this contig: 69780 70451 | 672 1 | 672 672 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCCGCCACCAGATGGGCGTTAAACG_to_GGATTGGCGTTGACAGTACCGGCTC
+
+CONTIG: edge_from_CCAGCCGATCAGCGACTCATCAATC_to_CAGCCTCTATCCACCAGCATCCGCA (1189bp)
+Top Length: 1189  Top ID: 100.0
+		One align captures most of this contig: 30267 31455 | 1189 1 | 1189 1189 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCAGCCGATCAGCGACTCATCAATC_to_CAGCCTCTATCCACCAGCATCCGCA
+
+CONTIG: edge_from_CCAGCCGCATTTCAGCGACCTGTTT_to_GTCCGCTGGTGCCAATGGTGGCGGG (979bp)
+Top Length: 979  Top ID: 100.0
+		One align captures most of this contig: 70764 71742 | 1 979 | 979 979 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCAGCCGCATTTCAGCGACCTGTTT_to_GTCCGCTGGTGCCAATGGTGGCGGG
+
+CONTIG: edge_from_CCGCCGCCAAAACCGCCGCCGCCCA_to_CGCGTCTGCAGTGATGTATGGCAGG (1420bp)
+Top Length: 1420  Top ID: 100.0
+		One align captures most of this contig: 13008 14427 | 1420 1 | 1420 1420 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CCGCCGCCAAAACCGCCGCCGCCCA_to_CGCGTCTGCAGTGATGTATGGCAGG
+
+CONTIG: edge_from_AAGCCAGTCACAAGGCATACCGAGG_to_CCAGCCATTTTTCGAATAACTGGGC (852bp)
+Top Length: 852  Top ID: 100.0
+		One align captures most of this contig: 88703 89554 | 852 1 | 852 852 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_AAGCCAGTCACAAGGCATACCGAGG_to_CCAGCCATTTTTCGAATAACTGGGC
+
+CONTIG: edge_from_CAGCCACGACTTCCGCCAGTTCTTT_to_AAGCCAGTCACAAGGCATACCGAGG (1129bp)
+Top Length: 1129  Top ID: 100.0
+		One align captures most of this contig: 89530 90658 | 1129 1 | 1129 1129 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CAGCCACGACTTCCGCCAGTTCTTT_to_AAGCCAGTCACAAGGCATACCGAGG
+
+CONTIG: edge_from_CAGCACGCAGTCAAACAAAAAACCC_to_GCGGTCGGAAACTCACTGGCGGCGG (742bp)
+Top Length: 742  Top ID: 100.0
+		One align captures most of this contig: 82878 83619 | 742 1 | 742 742 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CAGCACGCAGTCAAACAAAAAACCC_to_GCGGTCGGAAACTCACTGGCGGCGG
+
+CONTIG: edge_from_CTGCTGAAGTGCTGAAAAAAATGAA_to_CCTGCCATACATCACTGCAGACGCG (524bp)
+Top Length: 524  Top ID: 100.0
+		One align captures most of this contig: 12509 13032 | 1 524 | 524 524 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_CTGCTGAAGTGCTGAAAAAAATGAA_to_CCTGCCATACATCACTGCAGACGCG
+
+CONTIG: edge_from_GCCATGATGACGCTGGCGCTGGCGG_to_TGGGCGGTGACGACCGGCGGCGGGG (819bp)
+Top Length: 819  Top ID: 100.0
+		One align captures most of this contig: 46755 47573 | 1 819 | 819 819 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_GCCATGATGACGCTGGCGCTGGCGG_to_TGGGCGGTGACGACCGGCGGCGGGG
+
+CONTIG: edge_from_AAAGAACTGGCGGAAGTCGTGGCTG_to_CTGCCACTCTGCCTGTTCATTTGCA (534bp)
+Top Length: 534  Top ID: 100.0
+		One align captures most of this contig: 90634 91167 | 1 534 | 534 534 | 100.0 | gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides edge_from_AAAGAACTGGCGGAAGTCGTGGCTG_to_CTGCCACTCTGCCTGTTCATTTGCA
+
+Analyzing coverage...
+Writing SNPs into /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/contigs_reports/nucmer_output/deBruijnGraphQUAST1_s_6.first100000.used_snps
+	Reference gi|49175990|ref|NC_000913.2|_Escherichia_coli_str._K-12_substr._MG1655__complete_genome__cropped_to_first_100000_nucleotides: 119 total alignments. 1 total regions.
+		Region: 1 to 100000 (100000 bp)
+			START in gap: 1 to 409 (408 bp)
+			Align 1: 409 1762 edge_from_GAAAGCAATGCCAGGCAGGGGCAGG_to_GTGTTTGTGATTGGCGTCGGTGGCG 1 1354
+				The next alignment (409 1762 edge_from_CGCCACCGACGCCAATCACAAACAC_to_CCTGCCCCTGCCTGGCATTGCTTTC 1354 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1762 to 1738 (-24 bp)
+				Next Alignment: 1738 3545 edge_from_CCGCCTGCCGCGCCTGCCGGAAGCC_to_CGCCACCGACGCCAATCACAAACAC 1808 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1808 to 1783.
+			Align 3: 1763 3545 edge_from_CCGCCTGCCGCGCCTGCCGGAAGCC_to_CGCCACCGACGCCAATCACAAACAC 1783 1
+				The next alignment (1738 3545 edge_from_GTGTTTGTGATTGGCGTCGGTGGCG_to_GGCTTCCGGCAGGCGCGGCAGGCGG 1 1808) is redundant. Skipping.
+				Gap between this and next alignment: 3545 to 3687 (141 bp)
+				Next Alignment: 3687 4848 edge_from_AAGCCATATTCGCCTGGATTCAACT_to_CCCGCCGTATCCAGCCGGCAAATAT 1162 1
+
+			Align 5: 3687 4848 edge_from_AAGCCATATTCGCCTGGATTCAACT_to_CCCGCCGTATCCAGCCGGCAAATAT 1162 1
+				Gap between this and next alignment: 4848 to 5657 (808 bp)
+				Next Alignment: 5657 7238 edge_from_CGCCGCATCCGGCATTGACTGCAAA_to_CCTGCCGCTTCCTGCCAGCCAAAAG 1 1582
+
+			Align 6: 5657 7238 edge_from_CGCCGCATCCGGCATTGACTGCAAA_to_CCTGCCGCTTCCTGCCAGCCAAAAG 1 1582
+				Negative gap (overlap) between this and next alignment: 7238 to 7214 (-24 bp)
+				Next Alignment: 7214 9126 edge_from_CCGCCAGTTTATCTACTGCCATTGG_to_CTTTTGGCTGGCAGGAAGCGGCAGG 1913 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1913 to 1888.
+			Align 7: 7239 9126 edge_from_CCGCCAGTTTATCTACTGCCATTGG_to_CTTTTGGCTGGCAGGAAGCGGCAGG 1888 1
+				The next alignment (7214 9126 edge_from_CCTGCCGCTTCCTGCCAGCCAAAAG_to_CCAATGGCAGTAGATAAACTGGCGG 1 1913) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 9126 to 9102 (-24 bp)
+				Next Alignment: 9102 10166 edge_from_CCAATGGCAGTAGATAAACTGGCGG_to_AGCGTGCCGAAGAACATAAACAGCG 1 1065
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 9: 9127 10166 edge_from_CCAATGGCAGTAGATAAACTGGCGG_to_AGCGTGCCGAAGAACATAAACAGCG 26 1065
+				The next alignment (9102 10166 edge_from_CGCTGTTTATGTTCTTCGGCACGCT_to_CCGCCAGTTTATCTACTGCCATTGG 1065 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 10166 to 10142 (-24 bp)
+				Next Alignment: 10142 10652 edge_from_TCAGGTCTGATACCGGAAACCGGGG_to_CGCTGTTTATGTTCTTCGGCACGCT 511 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 511 to 486.
+			Align 11: 10167 10652 edge_from_TCAGGTCTGATACCGGAAACCGGGG_to_CGCTGTTTATGTTCTTCGGCACGCT 486 1
+				The next alignment (10142 10652 edge_from_AGCGTGCCGAAGAACATAAACAGCG_to_CCCCGGTTTCCGGTATCAGACCTGA 1 511) is redundant. Skipping.
+				Gap between this and next alignment: 10652 to 10675 (22 bp)
+				Next Alignment: 10675 11368 edge_from_AAGCCACAAAAAATGAATGTTAATT_to_CCAGCCGTACTGCAAATCGCCTGCC 694 1
+
+			Align 13: 10675 11368 edge_from_AAGCCACAAAAAATGAATGTTAATT_to_CCAGCCGTACTGCAAATCGCCTGCC 694 1
+				Negative gap (overlap) between this and next alignment: 11368 to 11346 (-22 bp)
+				Next Alignment: 11346 11982 edge_from_TTAACATTCATTTTTTGTGGCTTCT_to_CCTGCCATATCGCGAAATTTCTGCG 1 637
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 24.
+			Align 14: 11369 11982 edge_from_TTAACATTCATTTTTTGTGGCTTCT_to_CCTGCCATATCGCGAAATTTCTGCG 24 637
+				Negative gap (overlap) between this and next alignment: 11982 to 11958 (-24 bp)
+				Next Alignment: 11958 12533 edge_from_CCTGCCATATCGCGAAATTTCTGCG_to_CTGCTGAAGTGCTGAAAAAAATGAA 1 576
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 15: 11983 12533 edge_from_CCTGCCATATCGCGAAATTTCTGCG_to_CTGCTGAAGTGCTGAAAAAAATGAA 26 576
+				The next alignment (11958 12533 edge_from_TTCATTTTTTTCAGCACTTCAGCAG_to_CGCAGAAATTTCGCGATATGGCAGG 576 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 12533 to 12509 (-24 bp)
+				Next Alignment: 12509 13032 edge_from_CTGCTGAAGTGCTGAAAAAAATGAA_to_CCTGCCATACATCACTGCAGACGCG 1 524
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 17: 12534 13032 edge_from_CTGCTGAAGTGCTGAAAAAAATGAA_to_CCTGCCATACATCACTGCAGACGCG 26 524
+				Negative gap (overlap) between this and next alignment: 13032 to 13008 (-24 bp)
+				Next Alignment: 13008 14427 edge_from_CCTGCCATACATCACTGCAGACGCG_to_TGGGCGGCGGCGGTTTTGGCGGCGG 1 1420
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 18: 13033 14427 edge_from_CCTGCCATACATCACTGCAGACGCG_to_TGGGCGGCGGCGGTTTTGGCGGCGG 26 1420
+				The next alignment (13008 14427 edge_from_CCGCCGCCAAAACCGCCGCCGCCCA_to_CGCGTCTGCAGTGATGTATGGCAGG 1420 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 14427 to 14403 (-24 bp)
+				Next Alignment: 14403 15381 edge_from_TGGGCGGCGGCGGTTTTGGCGGCGG_to_TGCGAGCACCTGTAAAGTGGCGGGG 1 979
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 20: 14428 15381 edge_from_TGGGCGGCGGCGGTTTTGGCGGCGG_to_TGCGAGCACCTGTAAAGTGGCGGGG 26 979
+				The next alignment (14403 15381 edge_from_CCCCGCCACTTTACAGGTGCTCGCA_to_CCGCCGCCAAAACCGCCGCCGCCCA 979 1) is redundant. Skipping.
+				Gap between this and next alignment: 15381 to 16226 (844 bp)
+				Next Alignment: 16226 16730 edge_from_CCCGACTGCTCAGCGAGAATCGTCG_to_CAACCCTTAAGTTAGCGCTTATGGG 1 505
+
+			Align 22: 16226 16730 edge_from_CCCGACTGCTCAGCGAGAATCGTCG_to_CAACCCTTAAGTTAGCGCTTATGGG 1 505
+				The next alignment (16226 16730 edge_from_CCCATAAGCGCTAACTTAAGGGTTG_to_CGACGATTCTCGCTGAGCAGTCGGG 505 1) is redundant. Skipping.
+				Gap between this and next alignment: 16730 to 17051 (320 bp)
+				Next Alignment: 17051 18470 edge_from_TTTGCTGATAAGTCGTTCCCTCAGG_to_AAGAGAGCGATATAATAGCGGCGGG 1420 1
+
+			Align 24: 17051 18470 edge_from_TTTGCTGATAAGTCGTTCCCTCAGG_to_AAGAGAGCGATATAATAGCGGCGGG 1420 1
+				The next alignment (17051 18470 edge_from_CCCGCCGCTATTATATCGCTCTCTT_to_CCTGAGGGAACGACTTATCAGCAAA 1 1420) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 18470 to 18446 (-24 bp)
+				Next Alignment: 18446 19820 edge_from_CCTGAGGGAACGACTTATCAGCAAA_to_GGTAATGACTCCAACTTATTGATAG 1 1375
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 26: 18471 19820 edge_from_CCTGAGGGAACGACTTATCAGCAAA_to_GGTAATGACTCCAACTTATTGATAG 26 1375
+				Gap between this and next alignment: 19820 to 20540 (719 bp)
+				Next Alignment: 20540 25252 edge_from_CCAGCCACAGCCAGCGTAGCCCTGT_to_AGGTGATGCTGCCAACTTACTGATT 4713 1
+
+			Align 27: 20540 25252 edge_from_CCAGCCACAGCCAGCGTAGCCCTGT_to_AGGTGATGCTGCCAACTTACTGATT 4713 1
+				Negative gap (overlap) between this and next alignment: 25252 to 25228 (-24 bp)
+				Next Alignment: 25228 25778 edge_from_CGCCTTATCCGGCCTACGATTTCGC_to_CCAGCCACAGCCAGCGTAGCCCTGT 551 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 551 to 526.
+			Align 28: 25253 25778 edge_from_CGCCTTATCCGGCCTACGATTTCGC_to_CCAGCCACAGCCAGCGTAGCCCTGT 526 1
+				Gap between this and next alignment: 25778 to 26073 (294 bp)
+				Next Alignment: 26073 27981 edge_from_CCCGCCGTGAATTTATGGATGCAGG_to_GTAGCGGCAGTATGCAAAGCGGCTT 1 1909
+
+			Align 29: 26073 27981 edge_from_CCCGCCGTGAATTTATGGATGCAGG_to_GTAGCGGCAGTATGCAAAGCGGCTT 1 1909
+				The next alignment (26073 27981 edge_from_AAGCCGCTTTGCATACTGCCGCTAC_to_CCTGCATCCATAAATTCACGGCGGG 1909 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 27981 to 27957 (-24 bp)
+				Next Alignment: 27957 29528 edge_from_CGCTAAAAGTCAACTTAATGGCGGG_to_AAGCCGCTTTGCATACTGCCGCTAC 1572 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1572 to 1547.
+			Align 31: 27982 29528 edge_from_CGCTAAAAGTCAACTTAATGGCGGG_to_AAGCCGCTTTGCATACTGCCGCTAC 1547 1
+				Gap between this and next alignment: 29528 to 30267 (738 bp)
+				Next Alignment: 30267 31455 edge_from_TGCGGATGCTGGTGGATAGAGGCTG_to_GATTGATGAGTCGCTGATCGGCTGG 1 1189
+
+			Align 32: 30267 31455 edge_from_TGCGGATGCTGGTGGATAGAGGCTG_to_GATTGATGAGTCGCTGATCGGCTGG 1 1189
+				The next alignment (30267 31455 edge_from_CCAGCCGATCAGCGACTCATCAATC_to_CAGCCTCTATCCACCAGCATCCGCA 1189 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 31455 to 31431 (-24 bp)
+				Next Alignment: 31431 32682 edge_from_GATTGATGAGTCGCTGATCGGCTGG_to_CCGCCTCTACTTCGAGCCGGTAACT 1 1252
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 34: 31456 32682 edge_from_GATTGATGAGTCGCTGATCGGCTGG_to_CCGCCTCTACTTCGAGCCGGTAACT 26 1252
+				The next alignment (31431 32682 edge_from_AGTTACCGGCTCGAAGTAGAGGCGG_to_CCAGCCGATCAGCGACTCATCAATC 1252 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 32682 to 32658 (-24 bp)
+				Next Alignment: 32658 33492 edge_from_CCGCCTCTACTTCGAGCCGGTAACT_to_CCCGCCGTACTACTCGGTGAAAGAA 1 835
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 36: 32683 33492 edge_from_CCGCCTCTACTTCGAGCCGGTAACT_to_CCCGCCGTACTACTCGGTGAAAGAA 26 835
+				Negative gap (overlap) between this and next alignment: 33492 to 33468 (-24 bp)
+				Next Alignment: 33468 34645 edge_from_CCCGCCGTACTACTCGGTGAAAGAA_to_CCTGCCGTTCCGCTCACGGAACTTA 1 1178
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 37: 33493 34645 edge_from_CCCGCCGTACTACTCGGTGAAAGAA_to_CCTGCCGTTCCGCTCACGGAACTTA 26 1178
+				Negative gap (overlap) between this and next alignment: 34645 to 34621 (-24 bp)
+				Next Alignment: 34621 36306 edge_from_TGCTCGGGGAAAATAATTAGAAAGA_to_TAAGTTCCGTGAGCGGAACGGCAGG 1686 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1686 to 1661.
+			Align 38: 34646 36306 edge_from_TGCTCGGGGAAAATAATTAGAAAGA_to_TAAGTTCCGTGAGCGGAACGGCAGG 1661 1
+				The next alignment (34621 36306 edge_from_CCTGCCGTTCCGCTCACGGAACTTA_to_TCTTTCTAATTATTTTCCCCGAGCA 1 1686) is redundant. Skipping.
+				Gap between this and next alignment: 36306 to 36638 (331 bp)
+				Next Alignment: 36638 37323 edge_from_CCGCCGCTATCGACTGACGATACGG_to_AAGCCACTGCGAAAGTGCTGGAAGC 686 1
+
+			Align 40: 36638 37323 edge_from_CCGCCGCTATCGACTGACGATACGG_to_AAGCCACTGCGAAAGTGCTGGAAGC 686 1
+				Negative gap (overlap) between this and next alignment: 37323 to 37299 (-24 bp)
+				Next Alignment: 37299 38642 edge_from_CCAGCCAATGCCTGCCTTCCCGTAT_to_CCGCCGCTATCGACTGACGATACGG 1344 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1344 to 1319.
+			Align 41: 37324 38642 edge_from_CCAGCCAATGCCTGCCTTCCCGTAT_to_CCGCCGCTATCGACTGACGATACGG 1319 1
+				The next alignment (37299 38642 edge_from_CCGTATCGTCAGTCGATAGCGGCGG_to_ATACGGGAAGGCAGGCATTGGCTGG 1 1344) is redundant. Skipping.
+				Gap between this and next alignment: 38642 to 39251 (608 bp)
+				Next Alignment: 39251 40511 edge_from_TATTGCTTCAGCACCGCACGACCCA_to_GGGCATCCTCCGGCGATAATGGCGG 1 1261
+
+			Align 43: 39251 40511 edge_from_TATTGCTTCAGCACCGCACGACCCA_to_GGGCATCCTCCGGCGATAATGGCGG 1 1261
+				The next alignment (39251 40511 edge_from_CCGCCATTATCGCCGGAGGATGCCC_to_TGGGTCGTGCGGTGCTGAAGCAATA 1261 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 40511 to 40487 (-24 bp)
+				Next Alignment: 40487 44044 edge_from_GGGCATCCTCCGGCGATAATGGCGG_to_TCGCCATCAATAAAGATAAAAATGC 1 3558
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 45: 40512 44044 edge_from_GGGCATCCTCCGGCGATAATGGCGG_to_TCGCCATCAATAAAGATAAAAATGC 26 3558
+				The next alignment (40487 44044 edge_from_GCATTTTTATCTTTATTGATGGCGA_to_CCGCCATTATCGCCGGAGGATGCCC 3558 1) is redundant. Skipping.
+				Gap between this and next alignment: 44044 to 44702 (657 bp)
+				Next Alignment: 44702 45749 edge_from_CAGCCGTAACGGAACTCCACACCAA_to_CCGCCACATCCGTCGGTTTGACGCG 1048 1
+
+			Align 47: 44702 45749 edge_from_CAGCCGTAACGGAACTCCACACCAA_to_CCGCCACATCCGTCGGTTTGACGCG 1048 1
+				Negative gap (overlap) between this and next alignment: 45749 to 45725 (-24 bp)
+				Next Alignment: 45725 46509 edge_from_CGCGAAAACGGGTTTGCTGCGGCTG_to_CAGCCGTAACGGAACTCCACACCAA 785 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 785 to 760.
+			Align 48: 45750 46509 edge_from_CGCGAAAACGGGTTTGCTGCGGCTG_to_CAGCCGTAACGGAACTCCACACCAA 760 1
+				The next alignment (45725 46509 edge_from_TTGGTGTGGAGTTCCGTTACGGCTG_to_CAGCCGCAGCAAACCCGTTTTCGCG 1 785) is redundant. Skipping.
+				Gap between this and next alignment: 46509 to 46755 (245 bp)
+				Next Alignment: 46755 47573 edge_from_CCCCGCCGCCGGTCGTCACCGCCCA_to_CCGCCAGCGCCAGCGTCATCATGGC 819 1
+
+			Align 50: 46755 47573 edge_from_CCCCGCCGCCGGTCGTCACCGCCCA_to_CCGCCAGCGCCAGCGTCATCATGGC 819 1
+				The next alignment (46755 47573 edge_from_GCCATGATGACGCTGGCGCTGGCGG_to_TGGGCGGTGACGACCGGCGGCGGGG 1 819) is redundant. Skipping.
+				Gap between this and next alignment: 47573 to 47621 (47 bp)
+				Next Alignment: 47621 49602 edge_from_CCGCCATGTTGCCGGTATGTTTACC_to_AGATTGCCGTCGCCTGTAGCGGCTG 1982 1
+
+			Align 52: 47621 49602 edge_from_CCGCCATGTTGCCGGTATGTTTACC_to_AGATTGCCGTCGCCTGTAGCGGCTG 1982 1
+				The next alignment (47621 49602 edge_from_CAGCCGCTACAGGCGACGGCAATCT_to_GGTAAACATACCGGCAACATGGCGG 1 1982) is redundant. Skipping.
+				Gap between this and next alignment: 49602 to 49948 (345 bp)
+				Next Alignment: 49948 51902 edge_from_CCGCCGTCAGCCTTTACACCACCAC_to_GATTGATTCCCAGGTATGGCGGCCC 1955 1
+
+			Align 54: 49948 51902 edge_from_CCGCCGTCAGCCTTTACACCACCAC_to_GATTGATTCCCAGGTATGGCGGCCC 1955 1
+				The next alignment (49948 51902 edge_from_GGGCCGCCATACCTGGGAATCAATC_to_GTGGTGGTGTAAAGGCTGACGGCGG 1 1955) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 51902 to 51878 (-24 bp)
+				Next Alignment: 51878 52503 edge_from_GACGTGGCAAAGCCGATGTCGGCAG_to_CCGCCGTCAGCCTTTACACCACCAC 626 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 626 to 601.
+			Align 56: 51903 52503 edge_from_GACGTGGCAAAGCCGATGTCGGCAG_to_CCGCCGTCAGCCTTTACACCACCAC 601 1
+				Gap between this and next alignment: 52503 to 52660 (156 bp)
+				Next Alignment: 52660 54247 edge_from_CCTGCCGCAGGAAGTCGAATCCCTG_to_CCTGCCGATACCCTGTTTCAGCCGA 1588 1
+
+			Align 57: 52660 54247 edge_from_CCTGCCGCAGGAAGTCGAATCCCTG_to_CCTGCCGATACCCTGTTTCAGCCGA 1588 1
+				The next alignment (52660 54247 edge_from_TCGGCTGAAACAGGGTATCGGCAGG_to_CAGGGATTCGACTTCCTGCGGCAGG 1 1588) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 54247 to 54223 (-24 bp)
+				Next Alignment: 54223 55491 edge_from_CAGGGATTCGACTTCCTGCGGCAGG_to_CCGCCGTAAGTCCGGTCCCGGAACA 1 1269
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 59: 54248 55491 edge_from_CAGGGATTCGACTTCCTGCGGCAGG_to_CCGCCGTAAGTCCGGTCCCGGAACA 26 1269
+				The next alignment (54223 55491 edge_from_TGTTCCGGGACCGGACTTACGGCGG_to_CCTGCCGCAGGAAGTCGAATCCCTG 1269 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 55491 to 55467 (-24 bp)
+				Next Alignment: 55467 56378 edge_from_CCTGCCATATTACTGGAACATCGCG_to_TGTTCCGGGACCGGACTTACGGCGG 912 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 912 to 887.
+			Align 61: 55492 56378 edge_from_CCTGCCATATTACTGGAACATCGCG_to_TGTTCCGGGACCGGACTTACGGCGG 887 1
+				The next alignment (55467 56378 edge_from_CCGCCGTAAGTCCGGTCCCGGAACA_to_CGCGATGTTCCAGTAATATGGCAGG 1 912) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 56378 to 56354 (-24 bp)
+				Next Alignment: 56354 57498 edge_from_GGCGAACCACGCCATTTTACGGCTA_to_CCTGCCATATTACTGGAACATCGCG 1145 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1145 to 1120.
+			Align 63: 56379 57498 edge_from_GGCGAACCACGCCATTTTACGGCTA_to_CCTGCCATATTACTGGAACATCGCG 1120 1
+				Negative gap (overlap) between this and next alignment: 57498 to 57474 (-24 bp)
+				Next Alignment: 57474 59077 edge_from_GGGGTAGCACCGTCCGGGGTAGCAC_to_GGCGAACCACGCCATTTTACGGCTA 1604 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1604 to 1579.
+			Align 64: 57499 59077 edge_from_GGGGTAGCACCGTCCGGGGTAGCAC_to_GGCGAACCACGCCATTTTACGGCTA 1579 1
+				The next alignment (57474 59077 edge_from_TAGCCGTAAAATGGCGTGGTTCGCC_to_GTGCTACCCCGGACGGTGCTACCCC 1 1604) is redundant. Skipping.
+				Gap between this and next alignment: 59077 to 59090 (12 bp)
+				Next Alignment: 59090 60076 edge_from_CCCGGACGGTGCTAACCTGGACGGT_to_GGGCCACATACTGCTTTTTCGGCTC 1 987
+
+			Align 66: 59090 60076 edge_from_CCCGGACGGTGCTAACCTGGACGGT_to_GGGCCACATACTGCTTTTTCGGCTC 1 987
+				The next alignment (59090 60076 edge_from_GAGCCGAAAAAGCAGTATGTGGCCC_to_ACCGTCCAGGTTAGCACCGTCCGGG 987 1) is redundant. Skipping.
+				Gap between this and next alignment: 60076 to 60148 (71 bp)
+				Next Alignment: 60148 60679 edge_from_TAGCCATATCCAGACGATGCACCGA_to_ACGGTTAACCGCGTTAAGCTGGCGG 1 532
+
+			Align 68: 60148 60679 edge_from_TAGCCATATCCAGACGATGCACCGA_to_ACGGTTAACCGCGTTAAGCTGGCGG 1 532
+				The next alignment (60148 60679 edge_from_CCGCCAGCTTAACGCGGTTAACCGT_to_TCGGTGCATCGTCTGGATATGGCTA 532 1) is redundant. Skipping.
+				Gap between this and next alignment: 60679 to 60953 (273 bp)
+				Next Alignment: 60953 61519 edge_from_CGCGCCAGCGCCACTTCACGATCAA_to_CAGTAGATCCGGGTTGAATGGCAGG 1 567
+
+			Align 70: 60953 61519 edge_from_CGCGCCAGCGCCACTTCACGATCAA_to_CAGTAGATCCGGGTTGAATGGCAGG 1 567
+				The next alignment (60953 61519 edge_from_CCTGCCATTCAACCCGGATCTACTG_to_TTGATCGTGAAGTGGCGCTGGCGCG 567 1) is redundant. Skipping.
+				Gap between this and next alignment: 61519 to 61929 (409 bp)
+				Next Alignment: 61929 62640 edge_from_GAAACCTTACAGCATCAGTGGCTGG_to_CTGCCGCTACCGACGCAGTATCAGA 712 1
+
+			Align 72: 61929 62640 edge_from_GAAACCTTACAGCATCAGTGGCTGG_to_CTGCCGCTACCGACGCAGTATCAGA 712 1
+				Gap between this and next alignment: 62640 to 63056 (415 bp)
+				Next Alignment: 63056 64702 edge_from_TGCATCTGCCAGCCGTCATGGCTGG_to_CCGCCGTGTCGGTCCACCGGCAGGC 1 1647
+
+			Align 73: 63056 64702 edge_from_TGCATCTGCCAGCCGTCATGGCTGG_to_CCGCCGTGTCGGTCCACCGGCAGGC 1 1647
+				Negative gap (overlap) between this and next alignment: 64702 to 64678 (-24 bp)
+				Next Alignment: 64678 65645 edge_from_CCCGCCGATCAGGTTCCCCGCGCTC_to_GCCTGCCGGTGGACCGACACGGCGG 968 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 968 to 943.
+			Align 74: 64703 65645 edge_from_CCCGCCGATCAGGTTCCCCGCGCTC_to_GCCTGCCGGTGGACCGACACGGCGG 943 1
+				The next alignment (64678 65645 edge_from_CCGCCGTGTCGGTCCACCGGCAGGC_to_GAGCGCGGGGAACCTGATCGGCGGG 1 968) is redundant. Skipping.
+				Gap between this and next alignment: 65645 to 65731 (85 bp)
+				Next Alignment: 65731 66588 edge_from_CCGGATAAGCAAAGCGCATCCGGCA_to_CCCGACACTGGCGGGACACCCCGCA 858 1
+
+			Align 76: 65731 66588 edge_from_CCGGATAAGCAAAGCGCATCCGGCA_to_CCCGACACTGGCGGGACACCCCGCA 858 1
+				Gap between this and next alignment: 66588 to 66797 (208 bp)
+				Next Alignment: 66797 68787 edge_from_CCGACGCTCCGCTGCTGTTCGGCGG_to_GTATGTAACGCCTGATGCGACGCTG 1991 1
+
+			Align 77: 66797 68787 edge_from_CCGACGCTCCGCTGCTGTTCGGCGG_to_GTATGTAACGCCTGATGCGACGCTG 1991 1
+				The next alignment (66797 68787 edge_from_CAGCGTCGCATCAGGCGTTACATAC_to_CCGCCGAACAGCAGCGGAGCGTCGG 1 1991) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 68787 to 68763 (-24 bp)
+				Next Alignment: 68763 69804 edge_from_CCGCCGAACAGCAGCGGAGCGTCGG_to_GAGCCGGTACTGTCAACGCCAATCC 1 1042
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 79: 68788 69804 edge_from_CCGCCGAACAGCAGCGGAGCGTCGG_to_GAGCCGGTACTGTCAACGCCAATCC 26 1042
+				Negative gap (overlap) between this and next alignment: 69804 to 69780 (-24 bp)
+				Next Alignment: 69780 70451 edge_from_GAGCCGGTACTGTCAACGCCAATCC_to_CGTTTAACGCCCATCTGGTGGCGGG 1 672
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 80: 69805 70451 edge_from_GAGCCGGTACTGTCAACGCCAATCC_to_CGTTTAACGCCCATCTGGTGGCGGG 26 672
+				The next alignment (69780 70451 edge_from_CCCGCCACCAGATGGGCGTTAAACG_to_GGATTGGCGTTGACAGTACCGGCTC 672 1) is redundant. Skipping.
+				Gap between this and next alignment: 70451 to 70764 (312 bp)
+				Next Alignment: 70764 71742 edge_from_CCCGCCACCATTGGCACCAGCGGAC_to_AAACAGGTCGCTGAAATGCGGCTGG 979 1
+
+			Align 82: 70764 71742 edge_from_CCCGCCACCATTGGCACCAGCGGAC_to_AAACAGGTCGCTGAAATGCGGCTGG 979 1
+				The next alignment (70764 71742 edge_from_CCAGCCGCATTTCAGCGACCTGTTT_to_GTCCGCTGGTGCCAATGGTGGCGGG 1 979) is redundant. Skipping.
+				Gap between this and next alignment: 71742 to 72524 (781 bp)
+				Next Alignment: 72524 73053 edge_from_CCCTGCCGTTTTATCTCTACCAGCA_to_CGGGCGAGCTTTCCGGCGGTCAGCG 530 1
+
+			Align 84: 72524 73053 edge_from_CCCTGCCGTTTTATCTCTACCAGCA_to_CGGGCGAGCTTTCCGGCGGTCAGCG 530 1
+				The next alignment (72524 73053 edge_from_CGCTGACCGCCGGAAAGCTCGCCCG_to_TGCTGGTAGAGATAAAACGGCAGGG 1 530) is redundant. Skipping.
+				Gap between this and next alignment: 73053 to 73597 (543 bp)
+				Next Alignment: 73597 75048 edge_from_CCGCCAGTAACGGTGGCAGCAACAG_to_CCCGCCAGTTTTGATCGCTCTCAAC 1 1452
+
+			Align 86: 73597 75048 edge_from_CCGCCAGTAACGGTGGCAGCAACAG_to_CCCGCCAGTTTTGATCGCTCTCAAC 1 1452
+				The next alignment (73597 75048 edge_from_GTTGAGAGCGATCAAAACTGGCGGG_to_CTGTTGCTGCCACCGTTACTGGCGG 1452 1) is redundant. Skipping.
+				Gap between this and next alignment: 75048 to 75145 (96 bp)
+				Next Alignment: 75145 75710 edge_from_CCAGCCGCCGGGAACGTTAACGGCA_to_CCAGCCGAGGGTATTCATGCGCAGG 1 566
+
+			Align 88: 75145 75710 edge_from_CCAGCCGCCGGGAACGTTAACGGCA_to_CCAGCCGAGGGTATTCATGCGCAGG 1 566
+				Gap between this and next alignment: 75710 to 77561 (1850 bp)
+				Next Alignment: 77561 78381 edge_from_CCCGCCAGCAGATTATACCTGCTGG_to_TAGGATTGCCAGACAAACTGGCGGG 1 821
+
+			Align 89: 77561 78381 edge_from_CCCGCCAGCAGATTATACCTGCTGG_to_TAGGATTGCCAGACAAACTGGCGGG 1 821
+				The next alignment (77561 78381 edge_from_CCCGCCAGTTTGTCTGGCAATCCTA_to_CCAGCAGGTATAATCTGCTGGCGGG 821 1) is redundant. Skipping.
+				Gap between this and next alignment: 78381 to 78929 (547 bp)
+				Next Alignment: 78929 79516 edge_from_ACCGTTCATCATGCAGTGGCGGCGG_to_TGTCCGGTCACAGCAGCAGCGGCAG 1 588
+
+			Align 91: 78929 79516 edge_from_ACCGTTCATCATGCAGTGGCGGCGG_to_TGTCCGGTCACAGCAGCAGCGGCAG 1 588
+				The next alignment (78929 79516 edge_from_CTGCCGCTGCTGCTGTGACCGGACA_to_CCGCCGCCACTGCATGATGAACGGT 588 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 79516 to 79492 (-24 bp)
+				Next Alignment: 79492 81025 edge_from_TGTCCGGTCACAGCAGCAGCGGCAG_to_AAGCCGCATCATCGGCATCCAGGCT 1 1534
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 93: 79517 81025 edge_from_TGTCCGGTCACAGCAGCAGCGGCAG_to_AAGCCGCATCATCGGCATCCAGGCT 26 1534
+				The next alignment (79492 81025 edge_from_AGCCTGGATGCCGATGATGCGGCTT_to_CTGCCGCTGCTGCTGTGACCGGACA 1534 1) is redundant. Skipping.
+				Gap between this and next alignment: 81025 to 81869 (843 bp)
+				Next Alignment: 81869 82754 edge_from_CCGCCATTAATCACCAGGAGATATG_to_GGCGCTGAAAGTGCTGGATGCCGTG 886 1
+
+			Align 95: 81869 82754 edge_from_CCGCCATTAATCACCAGGAGATATG_to_GGCGCTGAAAGTGCTGGATGCCGTG 886 1
+				The next alignment (81869 82754 edge_from_CACGGCATCCAGCACTTTCAGCGCC_to_CATATCTCCTGGTGATTAATGGCGG 1 886) is redundant. Skipping.
+				Gap between this and next alignment: 82754 to 82878 (123 bp)
+				Next Alignment: 82878 83619 edge_from_CCGCCGCCAGTGAGTTTCCGACCGC_to_GGGTTTTTTGTTTGACTGCGTGCTG 1 742
+
+			Align 97: 82878 83619 edge_from_CCGCCGCCAGTGAGTTTCCGACCGC_to_GGGTTTTTTGTTTGACTGCGTGCTG 1 742
+				The next alignment (82878 83619 edge_from_CAGCACGCAGTCAAACAAAAAACCC_to_GCGGTCGGAAACTCACTGGCGGCGG 742 1) is redundant. Skipping.
+				Gap between this and next alignment: 83619 to 83881 (261 bp)
+				Next Alignment: 83881 85007 edge_from_CCGCCGCATGTTGTTCGTTATAAAC_to_GAAATATGTCAACCGATGAAAAGCG 1127 1
+
+			Align 99: 83881 85007 edge_from_CCGCCGCATGTTGTTCGTTATAAAC_to_GAAATATGTCAACCGATGAAAAGCG 1127 1
+				The next alignment (83881 85007 edge_from_CGCTTTTCATCGGTTGACATATTTC_to_GTTTATAACGAACAACATGCGGCGG 1 1127) is redundant. Skipping.
+				Gap between this and next alignment: 85007 to 85199 (191 bp)
+				Next Alignment: 85199 87085 edge_from_CCTGCCACTGCTTCACCATCCCCAG_to_TTCTGCTGTTTTGTTTTAACGGCAG 1887 1
+
+			Align 101: 85199 87085 edge_from_CCTGCCACTGCTTCACCATCCCCAG_to_TTCTGCTGTTTTGTTTTAACGGCAG 1887 1
+				The next alignment (85199 87085 edge_from_CTGCCGTTAAAACAAAACAGCAGAA_to_CTGGGGATGGTGAAGCAGTGGCAGG 1 1887) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 87085 to 87061 (-24 bp)
+				Next Alignment: 87061 88148 edge_from_CTGGGGATGGTGAAGCAGTGGCAGG_to_AAAACCGTTGAAAAAGTCATGGCTG 1 1088
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 103: 87086 88148 edge_from_CTGGGGATGGTGAAGCAGTGGCAGG_to_AAAACCGTTGAAAAAGTCATGGCTG 26 1088
+				The next alignment (87061 88148 edge_from_CAGCCATGACTTTTTCAACGGTTTT_to_CCTGCCACTGCTTCACCATCCCCAG 1088 1) is redundant. Skipping.
+				Gap between this and next alignment: 88148 to 88703 (554 bp)
+				Next Alignment: 88703 89554 edge_from_GCCCAGTTATTCGAAAAATGGCTGG_to_CCTCGGTATGCCTTGTGACTGGCTT 1 852
+
+			Align 105: 88703 89554 edge_from_GCCCAGTTATTCGAAAAATGGCTGG_to_CCTCGGTATGCCTTGTGACTGGCTT 1 852
+				The next alignment (88703 89554 edge_from_AAGCCAGTCACAAGGCATACCGAGG_to_CCAGCCATTTTTCGAATAACTGGGC 852 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 89554 to 89530 (-24 bp)
+				Next Alignment: 89530 90658 edge_from_CAGCCACGACTTCCGCCAGTTCTTT_to_AAGCCAGTCACAAGGCATACCGAGG 1129 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1129 to 1104.
+			Align 107: 89555 90658 edge_from_CAGCCACGACTTCCGCCAGTTCTTT_to_AAGCCAGTCACAAGGCATACCGAGG 1104 1
+				Negative gap (overlap) between this and next alignment: 90658 to 90634 (-24 bp)
+				Next Alignment: 90634 91167 edge_from_AAAGAACTGGCGGAAGTCGTGGCTG_to_CTGCCACTCTGCCTGTTCATTTGCA 1 534
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 108: 90659 91167 edge_from_AAAGAACTGGCGGAAGTCGTGGCTG_to_CTGCCACTCTGCCTGTTCATTTGCA 26 534
+				Negative gap (overlap) between this and next alignment: 91167 to 91143 (-24 bp)
+				Next Alignment: 91143 94393 edge_from_CCGCCACGTCAGCAAACTCTTCGGC_to_TGCAAATGAACAGGCAGAGTGGCAG 3251 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 3251 to 3226.
+			Align 109: 91168 94393 edge_from_CCGCCACGTCAGCAAACTCTTCGGC_to_TGCAAATGAACAGGCAGAGTGGCAG 3226 1
+				The next alignment (91143 94393 edge_from_CTGCCACTCTGCCTGTTCATTTGCA_to_GCCGAAGAGTTTGCTGACGTGGCGG 1 3251) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 94393 to 94369 (-24 bp)
+				Next Alignment: 94369 94895 edge_from_GCCGAAGAGTTTGCTGACGTGGCGG_to_CCTGCCGCAGTTAATCGTCAAGGAT 1 527
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 111: 94394 94895 edge_from_GCCGAAGAGTTTGCTGACGTGGCGG_to_CCTGCCGCAGTTAATCGTCAAGGAT 26 527
+				The next alignment (94369 94895 edge_from_ATCCTTGACGATTAACTGCGGCAGG_to_CCGCCACGTCAGCAAACTCTTCGGC 527 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 94895 to 94871 (-24 bp)
+				Next Alignment: 94871 95902 edge_from_CCTGCCGCAGTTAATCGTCAAGGAT_to_AAACTGCGTTAATTACGCGTCTTAA 1 1032
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 113: 94896 95902 edge_from_CCTGCCGCAGTTAATCGTCAAGGAT_to_AAACTGCGTTAATTACGCGTCTTAA 26 1032
+				The next alignment (94871 95902 edge_from_TTAAGACGCGTAATTAACGCAGTTT_to_ATCCTTGACGATTAACTGCGGCAGG 1032 1) is redundant. Skipping.
+				Gap between this and next alignment: 95902 to 95904 (1 bp)
+				Next Alignment: 95904 97480 edge_from_TTACTGATTGCTGAGCAACAGGTAA_to_GGTGAAATGGCGAAAGCGGCGGGGG 1 1577
+
+			Align 115: 95904 97480 edge_from_TTACTGATTGCTGAGCAACAGGTAA_to_GGTGAAATGGCGAAAGCGGCGGGGG 1 1577
+				The next alignment (95904 97480 edge_from_CCCCCGCCGCTTTCGCCATTTCACC_to_TTACCTGTTGCTCAGCAATCAGTAA 1577 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 97480 to 97456 (-24 bp)
+				Next Alignment: 97456 98594 edge_from_GGTCACCATGATAAAGCCAATCGCC_to_CCCCCGCCGCTTTCGCCATTTCACC 1139 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1139 to 1114.
+			Align 117: 97481 98594 edge_from_GGTCACCATGATAAAGCCAATCGCC_to_CCCCCGCCGCTTTCGCCATTTCACC 1114 1
+				Negative gap (overlap) between this and next alignment: 98594 to 98570 (-24 bp)
+				Next Alignment: 98570 99497 edge_from_CCCCGCCGCCGCGCCTACGTTAACC_to_GGTCACCATGATAAAGCCAATCGCC 928 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 928 to 903.
+			Align 118: 98595 99497 edge_from_CCCCGCCGCCGCGCCTACGTTAACC_to_GGTCACCATGATAAAGCCAATCGCC 903 1
+				The next alignment (98570 99497 edge_from_GGCGATTGGCTTTATCATGGTGACC_to_GGTTAACGTAGGCGCGGCGGCGGGG 1 928) is redundant. Skipping.
+
+Analysis is finished!
+Founded SNPs were written into /home/bushmanovae/tmp/bushmanovae/lesson6/quast100000_1_2/contigs_reports/nucmer_output/deBruijnGraphQUAST1_s_6.first100000.used_snps
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassmblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 0 part
+Partially Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each contig was used.
+
+	Covered Bases: 85239
+
+	SNPs: 0
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 35
+		Internal Gaps:  0
+		External Gaps:  35
+		External Gap Total:  14258
+		External Gap Average: 407
+	Negative Gaps: 36
+		Internal Overlaps:  0
+		External Overlaps:  36
+		External Overlaps Total: -862
+		External Overlaps Average: -24
+	Contigs with Redundant Alignments: 48 (60182)
